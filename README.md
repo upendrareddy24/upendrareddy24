@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @upendrareddy24
-- 👀 I’m interested in Learning 
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on latest tech
-- 📫 How to reach me on +91-8951606010
+# individual_scripts
+python Web Application - Movie Booking System
+https://github.com/Bhavana5N/movie_booking_system
 
-<!---
-upendrareddy24/upendrareddy24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+http_downloader -- executable can be create  by using Make file
